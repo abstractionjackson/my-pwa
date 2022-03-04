@@ -24,7 +24,10 @@
   color: white;
 }
 
-.App-link {
+a {
+  font-size: 24px;
+  font-style: bold;
+  margin: 1.25rem;
   color: #61dafb;
 }
 
